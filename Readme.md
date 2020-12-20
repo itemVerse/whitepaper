@@ -1,0 +1,3 @@
+# itemVerse Whitepaper
+
+- TBD
